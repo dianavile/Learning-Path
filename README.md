@@ -24,15 +24,14 @@ __DOING__
      - [ ] MyReads -a book tracking app
      - [ ] Neighbour Map  
      
-__TO DO__
 - ### [Google-Udacity (Extra Courses)](https://eu.udacity.com/courses/)
 - [**Responsive Images**](https://eu.udacity.com/course/responsive-images--ud882)  
     27/02/2018  - 02/03/2018
 - [****](https://eu.udacity.com/course/responsive-images--)  
     27/02/2018  - 02/03/2018
-- [****](https://eu.udacity.com/course/responsive-images--)  
+- [**HTML5 Canvas**](https://classroom.udacity.com/courses/ud292--)  
     27/02/2018  - 02/03/2018
-- [****](https://eu.udacity.com/course/responsive-images--)  
+- [**Object Oriented JavaScript**](https://classroom.udacity.com/courses/ud015--)  
     27/02/2018  - 02/03/2018
 - [****](https://eu.udacity.com/course/responsive-images--)  
     27/02/2018  - 02/03/2018
@@ -79,4 +78,8 @@ __TO DO__
   - [ ] &nbsp;
   - [ ] &nbsp;NODE.js 
   
+ __TO DO__
+- ### [Google-Udacity (Extra Courses)](https://eu.udacity.com/courses/)
+- [**Intro to Psychology**](  https://classroom.udacity.com/courses/ps001--)   
+27/02/2018  - 02/03/2018
   
