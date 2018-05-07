@@ -29,10 +29,8 @@ __TO DO__
 - [**Responsive Images**](https://eu.udacity.com/course/responsive-images--ud882)  
     27/02/2018  - 02/03/2018
        
-   
-- ### [The Odin Project](https://www.theodinproject.com/home)  
-  01/04/2018 -  
-  _HTML5, CSS3, JavaScript, git, Ruby, Ruby on Rails, SQL_  
+ - ### [The Odin Project](https://www.theodinproject.com/home)  
+  01/04/2018 - _HTML5, CSS3, JavaScript, git, Ruby, Ruby on Rails, SQL_  
   [Coursework repository](https://github.com/jpacsai/TheOdinProject)
   - [ ] Webdevelopment 101
   - [ ] &nbsp;The basics
