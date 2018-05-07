@@ -29,18 +29,22 @@ __TO DO__
 - [**Responsive Images**](https://eu.udacity.com/course/responsive-images--ud882)  
     27/02/2018  - 02/03/2018
        
-    15/01/2018 -  
-  [Coursework repository]() 
-  - [ ] &nbsp;Week 0 - _Scratch_
-  - [ ] &nbsp;Week 1 - _C_ 
-  - [ ] &nbsp;Week 2 - _Algorithms_
-  - [ ] &nbsp;Week 3 - _Memory_
-  - [ ] &nbsp;Week 4 - _Data Structures_ 
-  - [ ] &nbsp;Week 5 - _HTTP_
-  - [ ] &nbsp;Week 6 - _Dynamic Programming_
-  - [ ] &nbsp;Week 7 - _Phyton_
-  - [ ] &nbsp;Week 8 - _Phyton_
-  - [ ] &nbsp;Week 9 - _SQL_
-  - [ ] &nbsp;Week 10 - _JavaScript_
-  - [ ] &nbsp;Week 11 - _Final Project_  
-    
+   
+- ### [The Odin Project](https://www.theodinproject.com/home)  
+  01/04/2018 -  
+  _HTML5, CSS3, JavaScript, git, Ruby, Ruby on Rails, SQL_  
+  [Coursework repository](https://github.com/jpacsai/TheOdinProject)
+  - [ ] Webdevelopment 101
+  - [ ] &nbsp;The basics
+  - [ ] &nbsp;Git basics
+  - [ ] &nbsp;The Front End :hourglass_flowing_sand:
+  - [ ] &nbsp;JavaScript Basics
+  - [ ] &nbsp;The Back End
+  - [ ] &nbsp;Web Development Frameworks
+  - [ ] &nbsp;Pair Programming
+  - [ ] &nbsp;Tying it All Together
+  - [ ] Ruby Programming
+  - [ ] Ruby on Rails
+  - [ ] HTML5 and CSS3
+  - [ ] JavaScript
+  - [ ] Getting Hired
