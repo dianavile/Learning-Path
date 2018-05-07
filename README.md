@@ -35,7 +35,7 @@ __TO DO__
   - [ ] Webdevelopment 101
   - [ ] &nbsp;The basics
   - [ ] &nbsp;Git basics
-  - [ ] &nbsp;The Front End :hourglass_flowing_sand:
+  - [ ] &nbsp;The Front End 
   - [ ] &nbsp;JavaScript Basics
   - [ ] &nbsp;The Back End
   - [ ] &nbsp;Web Development Frameworks
