@@ -16,19 +16,32 @@ __DOING__
   - **2.&nbsp;Web Programming with JavaScript:**  
      - [x] [Memory Game]()  
   - **3.&nbsp;Exploring JS - Objects, Tools and Testing**  
-     - [ ] [Classic Arcade Game clone]  
+     - [ ] Classic Arcade Game clone  
      - [ ] Feed Reader testing  
   - **4.&nbsp;Front End Applications:**  
      - [ ] Restaurant Reviews App  
   - **5.&nbsp;Building with React:**  
      - [ ] MyReads -a book tracking app
      - [ ] Neighbour Map  
-   
-   
+     
 __TO DO__
 - [**Responsive Images**](https://eu.udacity.com/course/responsive-images--ud882)  
     27/02/2018  - 02/03/2018
-       
+- [****](https://eu.udacity.com/course/responsive-images--)  
+    27/02/2018  - 02/03/2018
+- [****](https://eu.udacity.com/course/responsive-images--)  
+    27/02/2018  - 02/03/2018
+- [****](https://eu.udacity.com/course/responsive-images--)  
+    27/02/2018  - 02/03/2018
+- [****](https://eu.udacity.com/course/responsive-images--)  
+    27/02/2018  - 02/03/2018
+- [****](https://eu.udacity.com/course/responsive-images--)  
+    27/02/2018  - 02/03/2018
+- [****](https://eu.udacity.com/course/responsive-images--)  
+    27/02/2018  - 02/03/2018
+- [**s**](https://eu.udacity.com/course/responsive-images--)  
+    27/02/2018  - 02/03/2018
+                                
  - ### [The Odin Project](https://www.theodinproject.com/home)  
   01/04/2018 - _HTML5, CSS3, JavaScript, git, Ruby, Ruby on Rails, SQL_  
   [Coursework repository](https://github.com/jpacsai/TheOdinProject)
