@@ -1,5 +1,5 @@
 # Learning-Path
-Here I put all courses, books, articles, I did and still want to learn &amp; read to become a junior web developer
+Here I put all courses I did, am doing or are aiming still to learn &amp; to become a junior web developer
 
 __DONE__
 - ### [Google Udacity - Front End Web Developer Scholarship - Phase 1](https://www.udacity.com/google-scholarships)
