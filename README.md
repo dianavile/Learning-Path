@@ -25,6 +25,7 @@ __DOING__
      - [ ] Neighbour Map  
      
 __TO DO__
+- ### [Google-Udacity (Extra Courses)](https://eu.udacity.com/courses/)
 - [**Responsive Images**](https://eu.udacity.com/course/responsive-images--ud882)  
     27/02/2018  - 02/03/2018
 - [****](https://eu.udacity.com/course/responsive-images--)  
@@ -59,3 +60,23 @@ __TO DO__
   - [ ] HTML5 and CSS3
   - [ ] JavaScript
   - [ ] Getting Hired
+  
+   - ### [Coding Phase](https://www.codingphase.com/home)  
+  01/05/2018 - _HTML5, CSS3, JavaScript, git, Ruby, Ruby on Rails, SQL_  
+  [Coursework repository]()
+  - [ ] 
+  - [ ] &nbsp;The basics
+  - [ ] &nbsp;Git basics
+  - [ ] &nbsp;The Front End 
+  - [ ] &nbsp;JavaScript Basics
+  - [ ] &nbsp;The Back End
+  - [ ] &nbsp;Web Development Frameworks
+  - [ ] &nbsp;Pair Programming
+  - [ ] &nbsp;Tying it All Together
+  - [ ] Ruby Programming
+  - [ ] Ruby on Rails
+  - [ ] HTML5 and CSS3
+  - [ ] JavaScript
+  - [ ] Getting Hired
+  
+  
