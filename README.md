@@ -64,19 +64,19 @@ __TO DO__
    - ### [Coding Phase](https://www.codingphase.com/home)  
   01/05/2018 - _HTML5, CSS3, JavaScript, git, Ruby, Ruby on Rails, SQL_  
   [Coursework repository]()
-  - [ ] 
-  - [ ] &nbsp;The basics
-  - [ ] &nbsp;Git basics
-  - [ ] &nbsp;The Front End 
-  - [ ] &nbsp;JavaScript Basics
-  - [ ] &nbsp;The Back End
-  - [ ] &nbsp;Web Development Frameworks
-  - [ ] &nbsp;Pair Programming
-  - [ ] &nbsp;Tying it All Together
-  - [ ] Ruby Programming
-  - [ ] Ruby on Rails
-  - [ ] HTML5 and CSS3
-  - [ ] JavaScript
-  - [ ] Getting Hired
+  - [ ] &nbsp;HTML
+  - [ ] &nbsp;CSS
+  - [ ] &nbsp;
+  - [ ] &nbsp;
+  - [ ] &nbsp;
+  - [ ] &nbsp;
+  - [ ] &nbsp;
+  - [ ] &nbsp;
+  - [ ] &nbsp;
+  - [ ] &nbsp;
+  - [ ] &nbsp;
+  - [ ] &nbsp;
+  - [ ] &nbsp;
+  - [ ] &nbsp;NODE.js 
   
   
