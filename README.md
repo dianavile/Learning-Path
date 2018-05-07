@@ -80,8 +80,8 @@ __DOING__
   - [ ] &nbsp;NODE.js 
   
 - ### [Google-Udacity (Extra Courses)](https://eu.udacity.com/courses/)
--[**Intro to Computer Science**](https://classroom.udacity.com/courses/cs101) &nbsp;
-- 2018  - 2018 &nbsp;[**Programming foundations with Python**](https://classroom.udacity.com/courses/ud036--)  
-- 2018  - 2018 &nbsp;[**Intro to Psychology**](https://classroom.udacity.com/courses/ps001--) 
+- &nbsp;[**Intro to Computer Science**](https://classroom.udacity.com/courses/cs101) 
+- &nbsp;[**Programming foundations with Python**](https://classroom.udacity.com/courses/ud036--)  
+- &nbsp;[**Intro to Psychology**](https://classroom.udacity.com/courses/ps001--) 
 
   
