@@ -80,6 +80,9 @@ __DOING__
   
  __TO DO__
 - ### [Google-Udacity (Extra Courses)](https://eu.udacity.com/courses/)
-- [**Intro to Psychology**](  https://classroom.udacity.com/courses/ps001--)   
-27/02/2018  - 02/03/2018
+- 2018  - 2018 [**Intro to Psychology**](https://classroom.udacity.com/courses/ps001--)   
+- 2018  - 2018 [**Programming foundations with Python**](https://classroom.udacity.com/courses/ud036--)   
+
+
+
   
