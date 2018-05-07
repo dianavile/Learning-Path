@@ -41,7 +41,8 @@ __DOING__
     27/02/2018  - 02/03/2018
 - [**s**](https://eu.udacity.com/course/responsive-images--)  
     27/02/2018  - 02/03/2018
-                                
+ 
+ __TO DO__
  - ### [The Odin Project](https://www.theodinproject.com/home)  
   01/04/2018 - _HTML5, CSS3, JavaScript, git, Ruby, Ruby on Rails, SQL_  
   [Coursework repository](https://github.com/jpacsai/TheOdinProject)
@@ -60,7 +61,7 @@ __DOING__
   - [ ] JavaScript
   - [ ] Getting Hired
   
-   - ### [Coding Phase](https://www.codingphase.com/home)  
+- ### [Coding Phase](https://www.codingphase.com/home)  
   01/05/2018 - _HTML5, CSS3, JavaScript, git, Ruby, Ruby on Rails, SQL_  
   [Coursework repository]()
   - [ ] &nbsp;HTML
@@ -78,11 +79,9 @@ __DOING__
   - [ ] &nbsp;
   - [ ] &nbsp;NODE.js 
   
- __TO DO__
 - ### [Google-Udacity (Extra Courses)](https://eu.udacity.com/courses/)
-- 2018  - 2018 [**Intro to Psychology**](https://classroom.udacity.com/courses/ps001--)   
-- 2018  - 2018 [**Programming foundations with Python**](https://classroom.udacity.com/courses/ud036--)   
-
-
+- 2018  - 2018 &nbsp;[**Intro to Computer Science**](https://classroom.udacity.com/courses/cs101)
+- 2018  - 2018 &nbsp;[**Programming foundations with Python**](https://classroom.udacity.com/courses/ud036--)  
+- 2018  - 2018 &nbsp;[**Intro to Psychology**](https://classroom.udacity.com/courses/ps001--) 
 
   
