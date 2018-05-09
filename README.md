@@ -1,14 +1,14 @@
 # Learning-Path
-Here I put all courses I did, am doing or are aiming still to learn &amp; to become a junior web developer
+Here I put all courses I am involved in to prepare for a junior Front-End web developer job position.
 
 __DONE__
 - ### [Google Udacity - Front End Web Developer Scholarship - Phase 1](https://www.udacity.com/google-scholarships)
-  06/11/2017 - 06/02/2018 _HTML5, CSS3, JavaScript, jQuery_  
+ __06/11/2017 - 06/02/2018__ _HTML5, CSS3, JavaScript, jQuery_  
   [Coursework repository]()
   
 __DOING__
 - ### [Google-Udacity Front End Nanodegree (Developer Challenge Phase 2)](https://eu.udacity.com/course/front-end-web-developer-nanodegree--nd001)
-  19/02/2017 - _HTML5, CSS3, git, JavaScript, Jasmine, React.js_   
+  __15/02/2017 - 15/08/2018__ _HTML5, CSS3, git, JavaScript, ES6, Jasmine, React.js_   
   [Coursework repository]()
   - **1.&nbsp;Web Foundations:**  
      - [x] [Animal Trading Cards]()  
@@ -27,7 +27,7 @@ __DOING__
 - ### [Google-Udacity (Extra Courses)](https://eu.udacity.com/courses/)
 - [**Responsive Images**](https://eu.udacity.com/course/responsive-images--ud882)  
     27/02/2018  - 02/03/2018
-- [****](https://eu.udacity.com/course/responsive-images--)  
+- [**Responsive Web Design**](https://eu.udacity.com/course/responsive-images--)  
     27/02/2018  - 02/03/2018
 - [**HTML5 Canvas**](https://classroom.udacity.com/courses/ud292--)  
     27/02/2018  - 02/03/2018
@@ -41,13 +41,12 @@ __DOING__
     27/02/2018  - 02/03/2018
 - [**s**](https://eu.udacity.com/course/responsive-images--)  
     27/02/2018  - 02/03/2018
- 
- __TO DO__
+
  - ### [The Odin Project](https://www.theodinproject.com/home)  
   01/04/2018 - _HTML5, CSS3, JavaScript, git, Ruby, Ruby on Rails, SQL_  
   [Coursework repository](https://github.com/jpacsai/TheOdinProject)
-  - [ ] Webdevelopment 101
-  - [ ] &nbsp;The basics
+  - [x] Webdevelopment 101
+  - [x] &nbsp;The basics
   - [ ] &nbsp;Git basics
   - [ ] &nbsp;The Front End 
   - [ ] &nbsp;JavaScript Basics
@@ -79,7 +78,25 @@ __DOING__
   - [ ] &nbsp;
   - [ ] &nbsp;NODE.js 
   
-- ### [Google-Udacity (Extra Courses)](https://eu.udacity.com/courses/)
+  - ### [Free Code Camp](https://www.freecodecamp.com.com/home)  
+  01/05/2018 - __  
+  [Coursework repository]()
+  - [ ] &nbsp;HTML
+  - [ ] &nbsp;CSS
+  - [ ] &nbsp;
+  - [ ] &nbsp;
+  - [ ] &nbsp;
+  - [ ] &nbsp;
+  - [ ] &nbsp;
+  - [ ] &nbsp;
+  - [ ] &nbsp;
+  - [ ] &nbsp;
+  - [ ] &nbsp;
+  - [ ] &nbsp;
+  - [ ] &nbsp;
+  - [ ] &nbsp;NODE.js 
+  
+- ### [Google-Udacity (Extra)](https://eu.udacity.com/courses/)
 - &nbsp;[**Intro to Computer Science**](https://classroom.udacity.com/courses/cs101) 
 - &nbsp;[**Programming foundations with Python**](https://classroom.udacity.com/courses/ud036--)  
 - &nbsp;[**Intro to Psychology**](https://classroom.udacity.com/courses/ps001--) 
