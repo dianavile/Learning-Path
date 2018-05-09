@@ -60,6 +60,191 @@ __DOING__
   - [ ] JavaScript
   - [ ] Getting Hired
   
+  ### [JAVASCRIPT-ZELL](https://learnjavascript.today/)
+  - [] __Module 1:JavaScript and its Ecosystem__
+      - How to use this course
+      - What is JavaScript used for
+      - Handling varying versions of JavaScript
+      - Navigating the JavaScript ecosystem
+      - Preparing your text editor
+  - [] __Module 2:JavaScript Basics__
+     - Linking your JavaScript file
+     - The console
+     - Strings, Numbers and Booleans
+     - Comments
+     - Declaring variables
+     - Semicolons
+     - Functions
+     - Arrow functions
+     - Scopes and Closures
+     - Introduction to Objects
+     - Introduction to Arrays
+     - If/else statements
+     - And, or, and not operators
+     - Null and undefined
+     - For loops
+     - Debugging errors
+     - Callbacks
+- [] __Module 3:DOM Basics__ 
+     - BOM and DOM
+     - Selecting an element
+     - Changing CSS with JavaScript
+     - Array.prototype.forEach
+     - Selecting multiple elements
+     - Nodes vs Elements   
+     - Changing classes
+     - Changing attributes
+     - DOM Traversals
+     - ID, Classes, Tags or Attributes
+- [] __Module 4:Events__ 
+     - Events in JavaScript
+     - The listening element
+     - Removing event listeners
+     - Default behaviors
+     - Event propagation
+     - Event delegation
+- [] __Module 5:Building real components__ 
+     -  How to think like a developer
+     - Using the starter template
+     - Hands on: build an off-canvas sidebar menu
+     - Hands on: build a modal window
+     - Hands on: build an accordion
+     - Hands on: build a tabbed-component
+     - Hands on: build a carousel*
+     - Lessons from the building process
+
+Module 6 —Spicing components with animations
+CSS transitions
+CSS animations
+Jank free animations
+Integrating CSS transitions and animations with JavaScript*
+Getting the positional information of an element
+Detecting vendor prefixes*
+Animating with JavaScript
+Introduction to Greensock Animation API (GSAP)
+Hands on: animating the off canvas menu
+Hands on: animating the modal window
+Hands on: animating the accordion*
+Hands on: animating the carousel*
+
+Module 7 —Functional Programming
+What is Functional Programming
+Higher-order-functions
+Preventing objects from mutating
+Preventing arrays from mutating
+Declarative vs Imperative programming
+Composing functions
+Functional array methods
+Destructuring
+Rest and spread
+
+Module 8 —Object-oriented Programming
+Object literal shorthands
+Template Strings
+What is Object-oriented Programming?
+This in JavaScript
+JavaScript Classes
+Inheritance
+JavaScript prototype
+Inheritance through prototype
+The best way to construct objects*
+Composition and inheritance*
+Private and public variables*
+Call, bind and apply*
+OOP Best Practices*
+
+Module 9 —Text, Content and Forms*
+Getting and setting html and text
+Creating, adding, and removing elements
+Form events and methods
+Hands on: building a tooltip
+Hands on: building an autocomplete input
+Hands on: building a calculator
+Hands on: building a todo-list
+Hands on: building a date picker
+
+Module 10 —Asynchronous JavaScript*
+Basics to asynchronous JavaScript
+JSON
+Understanding REST APIs
+JavaScript Promises
+The Fetch API
+The Axios library
+Error handling
+Hands on: building a loading indicator
+Hands on: building an instagram feed
+Hands on: building a Google maps component
+Hands on: improving autocomplete input
+Hands on: improving the tooltip
+Hands on: improving the carousel
+
+Module 11 —Progressive enhancement*
+The progressive enhancement mindset
+What if there’s no JavaScript?
+Moving from mobile to desktop
+Feature detection and polyfilling
+Hands on: Improving the accordion
+Hands on: improving the tabbed-component
+Hands on: improving the carousel
+
+Module 12 —Scroll, mouse and touch events*
+Handling Scroll events
+Handling Mouse events
+Handling Touch events
+Hands on: building an auto-hiding sticky nav
+Hands on: building a same-page-scroll link
+Hands on: building an infinite-scrolling page
+Hands on: building a scrollspy
+Hands on: building a drag & drop component
+Hands on: improving the carousel
+Hands on: improving the date picker
+
+Module 13 —Keyboard events*
+Handling keyboard events
+Hands on: Improving the off canvas menu
+Hands on: improving the modal window
+Hands on: improving the tabbed component
+Hands on: improving carousel
+Hands on: improving the calculator
+
+Module 14 —Accessibility*
+Getting started with Accessibility
+Important ARIA Roles
+Hands on: improving the off canvas menu
+Hands on: improving the modal window
+Hands on: improving the accordion
+Hands on: improving the tabbed component
+Hands on: improving the tooltip
+Hands on: improving the calculator
+Hands on: improving the todo-list
+Hands on: improving the date picker
+Hands on: improving the scrollspy
+Hands on: improving the drag & drop component
+
+Module 15 —Libraries and plugins*
+When to create libraries & plugins
+Default variables
+Extending options
+Method chaining
+Hands on: Pluginify the calendar widget
+
+Module 16 —Single page applications*
+The foundation to frontend frameworks
+The MVC Architecture
+Hands on: building the card generator
+Routing
+Hands on: adding routing to the card generator
+Data flow with vanilla-style flux/redux
+Hands on: adding data-flow to the card generator
+Authentication
+Hands on: adding authentication to the card generator
+
+Module 17 —Webpack and Asset management*
+Introduction to Webpack
+Importing JavaScript files with Webpack
+Preparing your assets for production
+Using new JavaScript features with Babel
+
 - ### [Coding Phase](https://www.codingphase.com/home)  
   01/05/2018 - _HTML5, CSS3, JavaScript, git, Ruby, Ruby on Rails, SQL_  
   [Coursework repository]()
@@ -78,7 +263,7 @@ __DOING__
   - [ ] &nbsp;
   - [ ] &nbsp;NODE.js 
   
-  - ### [Free Code Camp](https://www.freecodecamp.com.com/home)  
+- ### [Free Code Camp](https://www.freecodecamp.com.com/home)  
   01/05/2018 - __  
   [Coursework repository]()
   - [ ] &nbsp;HTML
