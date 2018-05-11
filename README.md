@@ -1,6 +1,8 @@
 # Learning-Path
 Here I put all courses I am involved in to prepare for a junior Front-End web developer job position.
 
+UNDER CONSTRUCTION
+
 __DONE__
 - ### [Google Udacity - Front End Web Developer Scholarship - Phase 1](https://www.udacity.com/google-scholarships)
  __06/11/2017 - 06/02/2018__ _HTML5, CSS3, JavaScript, jQuery_  
