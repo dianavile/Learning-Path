@@ -18,7 +18,7 @@ __DOING__
   - **2.&nbsp;Web Programming with JavaScript:**  
      - [x] [Memory Game]()  
   - **3.&nbsp;Exploring JS - Objects, Tools and Testing**  
-     - [ ] Classic Arcade Game clone  
+     - [x] Classic Arcade Game clone  
      - [ ] Feed Reader testing  
   - **4.&nbsp;Front End Applications:**  
      - [ ] Restaurant Reviews App  
@@ -114,138 +114,126 @@ __DOING__
      - Hands on: build a tabbed-component
      - Hands on: build a carousel*
      - Lessons from the building process
-
-Module 6 —Spicing components with animations
-CSS transitions
-CSS animations
-Jank free animations
-Integrating CSS transitions and animations with JavaScript*
-Getting the positional information of an element
-Detecting vendor prefixes*
-Animating with JavaScript
-Introduction to Greensock Animation API (GSAP)
-Hands on: animating the off canvas menu
-Hands on: animating the modal window
-Hands on: animating the accordion*
-Hands on: animating the carousel*
-
-Module 7 —Functional Programming
-What is Functional Programming
-Higher-order-functions
-Preventing objects from mutating
-Preventing arrays from mutating
-Declarative vs Imperative programming
-Composing functions
-Functional array methods
-Destructuring
-Rest and spread
-
-Module 8 —Object-oriented Programming
-Object literal shorthands
-Template Strings
-What is Object-oriented Programming?
-This in JavaScript
-JavaScript Classes
-Inheritance
-JavaScript prototype
-Inheritance through prototype
-The best way to construct objects*
-Composition and inheritance*
-Private and public variables*
-Call, bind and apply*
-OOP Best Practices*
-
-Module 9 —Text, Content and Forms*
-Getting and setting html and text
-Creating, adding, and removing elements
-Form events and methods
-Hands on: building a tooltip
-Hands on: building an autocomplete input
-Hands on: building a calculator
-Hands on: building a todo-list
-Hands on: building a date picker
-
-Module 10 —Asynchronous JavaScript*
-Basics to asynchronous JavaScript
-JSON
-Understanding REST APIs
-JavaScript Promises
-The Fetch API
-The Axios library
-Error handling
-Hands on: building a loading indicator
-Hands on: building an instagram feed
-Hands on: building a Google maps component
-Hands on: improving autocomplete input
-Hands on: improving the tooltip
-Hands on: improving the carousel
-
-Module 11 —Progressive enhancement*
-The progressive enhancement mindset
-What if there’s no JavaScript?
-Moving from mobile to desktop
-Feature detection and polyfilling
-Hands on: Improving the accordion
-Hands on: improving the tabbed-component
-Hands on: improving the carousel
-
-Module 12 —Scroll, mouse and touch events*
-Handling Scroll events
-Handling Mouse events
-Handling Touch events
-Hands on: building an auto-hiding sticky nav
-Hands on: building a same-page-scroll link
-Hands on: building an infinite-scrolling page
-Hands on: building a scrollspy
-Hands on: building a drag & drop component
-Hands on: improving the carousel
-Hands on: improving the date picker
-
-Module 13 —Keyboard events*
-Handling keyboard events
-Hands on: Improving the off canvas menu
-Hands on: improving the modal window
-Hands on: improving the tabbed component
-Hands on: improving carousel
-Hands on: improving the calculator
-
-Module 14 —Accessibility*
-Getting started with Accessibility
-Important ARIA Roles
-Hands on: improving the off canvas menu
-Hands on: improving the modal window
-Hands on: improving the accordion
-Hands on: improving the tabbed component
-Hands on: improving the tooltip
-Hands on: improving the calculator
-Hands on: improving the todo-list
-Hands on: improving the date picker
-Hands on: improving the scrollspy
-Hands on: improving the drag & drop component
-
-Module 15 —Libraries and plugins*
-When to create libraries & plugins
-Default variables
-Extending options
-Method chaining
-Hands on: Pluginify the calendar widget
-
-Module 16 —Single page applications*
-The foundation to frontend frameworks
-The MVC Architecture
-Hands on: building the card generator
-Routing
-Hands on: adding routing to the card generator
-Data flow with vanilla-style flux/redux
-Hands on: adding data-flow to the card generator
-Authentication
-Hands on: adding authentication to the card generator
-
-Module 17 —Webpack and Asset management*
-Introduction to Webpack
-Importing JavaScript files with Webpack
-Preparing your assets for production
-Using new JavaScript features with Babel
+- [] __Module 6:Spicing components with animations__ 
+     - CSS transitions
+     - CSS animations
+     - Jank free animations
+     - Integrating CSS transitions and animations with JavaScript*
+     - Getting the positional information of an element
+     - Detecting vendor prefixes*
+     - Animating with JavaScript
+     - Introduction to Greensock Animation API (GSAP)
+     - Hands on: animating the off canvas menu
+     - Hands on: animating the modal window
+     - Hands on: animating the accordion*
+     - Hands on: animating the carousel*
+- [] __Module 7:Functional Programming__ 
+     - What is Functional Programming
+     - Higher-order-functions
+     - Preventing objects from mutating
+     - Preventing arrays from mutating
+     - Declarative vs Imperative programming
+     - Composing functions
+     - Functional array methods
+     - Destructuring
+     - Rest and spread
+- [] __Module 8:Object-oriented Programming__ 
+     - Object literal shorthands
+     - Template Strings
+     - What is Object-oriented Programming?
+     - This in JavaScript
+     - JavaScript Classes
+     - Inheritance
+     - JavaScript prototype
+     - Inheritance through prototype
+     - The best way to construct objects*
+     - Composition and inheritance*
+     - Private and public variables*
+     - Call, bind and apply*
+     - OOP Best Practices*
+- [] __Module 9:Text, Content and Forms*__ 
+     - Getting and setting html and text
+     - Creating, adding, and removing elements
+     - Form events and methods
+     - Hands on: building a tooltip
+     - Hands on: building an autocomplete input
+     - Hands on: building a calculator
+     - Hands on: building a todo-list
+     - Hands on: building a date picker
+- [] __Module 10:Asynchronous JavaScript*__ 
+     — Basics to asynchronous JavaScript
+     - JSON
+     - Understanding REST APIs
+     - JavaScript Promises
+     - The Fetch API
+     - The Axios library
+     - Error handling
+     - Hands on: building a loading indicator
+     - Hands on: building an instagram feed
+     - Hands on: building a Google maps component
+     - Hands on: improving autocomplete input
+     - Hands on: improving the tooltip
+     - Hands on: improving the carousel
+- [] __Module 11:Progressive enhancement*__
+     - The progressive enhancement mindset
+     - What if there’s no JavaScript?
+     - Moving from mobile to desktop
+     - Feature detection and polyfilling
+     - Hands on: Improving the accordion
+     - Hands on: improving the tabbed-component
+     - Hands on: improving the carousel
+- [] __Module 12:Scroll, mouse and touch events*__ 
+     - Handling Scroll events
+     - Handling Mouse events
+     - Handling Touch events
+     - Hands on: building an auto-hiding sticky nav
+     - Hands on: building a same-page-scroll link
+     - Hands on: building an infinite-scrolling page
+     - Hands on: building a scrollspy
+     - Hands on: building a drag & drop component
+     - Hands on: improving the carousel
+     - Hands on: improving the date picker
+- [] __Module 13:Keyboard events*__ 
+     - Handling keyboard events
+     - Hands on: Improving the off canvas menu
+     - Hands on: improving the modal window
+     - Hands on: improving the tabbed component
+     - Hands on: improving carousel
+     - Hands on: improving the calculator
+- [] __Module 14:Accessibility*__ 
+     - Getting started with Accessibility
+     - Important ARIA Roles
+     - Hands on: improving the off canvas menu
+     - Hands on: improving the modal window
+     - Hands on: improving the accordion
+     - Hands on: improving the tabbed component
+     - Hands on: improving the tooltip
+     - Hands on: improving the calculator
+     - Hands on: improving the todo-list
+     - Hands on: improving the date picker
+     - Hands on: improving the scrollspy
+     - Hands on: improving the drag & drop component
+- [] __Module 15:Libraries and plugins*__ 
+     - When to create libraries & plugins
+     - Default variables
+     - Extending options
+     - Method chaining
+     - Hands on: Pluginify the calendar widget
+- [] __Module 16:Single page applications*__ 
+     - The foundation to frontend frameworks
+     - The MVC Architecture
+     - Hands on: building the card generator
+     - Routing
+     - Hands on: adding routing to the card generator
+     - Data flow with vanilla-style flux/redux
+     - Hands on: adding data-flow to the card generator
+     - Authentication
+     - Hands on: adding authentication to the card generator
+- [] __Module 17:Webpack and Asset management*__ 
+     - Introduction to Webpack
+     - Importing JavaScript files with Webpack
+     - Preparing your assets for production
+     - Using new JavaScript features with Babel
 
 - ### [Coding Phase](https://www.codingphase.com/home)  
   01/05/2018 - _HTML5, CSS3, JavaScript, git, Ruby, Ruby on Rails, SQL_  
@@ -287,5 +275,3 @@ Using new JavaScript features with Babel
 - &nbsp;[**Intro to Computer Science**](https://classroom.udacity.com/courses/cs101) 
 - &nbsp;[**Programming foundations with Python**](https://classroom.udacity.com/courses/ud036--)  
 - &nbsp;[**Intro to Psychology**](https://classroom.udacity.com/courses/ps001--) 
-
-  
